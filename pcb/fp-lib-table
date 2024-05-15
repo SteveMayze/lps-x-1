@@ -1,5 +1,5 @@
 (fp_lib_table
   (version 7)
   (lib (name "XBee-Adapter")(type "KiCad")(uri "${MY_LIB}/XBee-Adapter.pretty")(options "")(descr ""))
-  (lib (name "lps-x-1")(type "KiCad")(uri "${LEAWOOD}/xbee-adapter/pcb/lib/lps-x-1.pretty")(options "")(descr ""))
+  (lib (name "lps-x-1")(type "KiCad")(uri "${LEAWOOD}/lps-x-1/pcb/lib/lps-x-1.pretty")(options "")(descr ""))
 )
